@@ -1,6 +1,6 @@
 HOTEL TAKEAWAY MANAGEMENT SYSTEM
 
-Problem Description:
+Problem Description: 
 Traditional takeaway order management in hotels often relies on manual processes, leading to errors, delays, miscommunication between staff, and customer dissatisfaction. Tracking the status of orders, managing inventory, and coordinating between kitchen and front desk staff can become inefficient without a centralized system.
 
 Motivation:
